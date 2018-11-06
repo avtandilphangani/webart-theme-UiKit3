@@ -1,8 +1,8 @@
 {
-    "name": "fosphatic/uikit3-theme-one",
+    "name": "webart/uikit3-theme-one",
     "type": "pagekit-theme",
-    "version": "1.0.5",
-    "title": "UIKit3 One",
+    "version": "0.0.5",
+    "title": "WebArt UIKit3",
     "description": "Pagekit's default theme migrated to UIKit 3.",
     "license": "MIT",
     "authors": [
