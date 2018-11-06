@@ -1,8 +1,8 @@
 {
-  "name": "uikit3-theme-one",
-  "version": "1.0.5",
+  "name": "webart-theme-uikit3",
+  "version": "0.0.5",
   "description": "UIkit 3 Theme one migrated.",
-  "author": "Sven Suchan <sven@suchan.me>",
+  "author": "Avto Pangani <avto@telaveli.ge>",
   "license": "MIT",
   "private": true,
   "scripts": {

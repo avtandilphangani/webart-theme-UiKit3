@@ -1,5 +1,5 @@
 {
-    "name": "webart/uikit3-theme-one",
+    "name": "webart/webart-theme-uikit3",
     "type": "pagekit-theme",
     "version": "0.0.5",
     "title": "WebArt UIKit3",
@@ -7,9 +7,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Sven Suchan",
-            "email": "sven@suchan.me",
-            "homepage": "https://www.suchan-webdesign.de"
+            "name": "Avto Pangani",
+            "email": "avto@telaveli.ge",
+            "homepage": "http://telaveli.ge"
         }
     ],
     "extra": {
