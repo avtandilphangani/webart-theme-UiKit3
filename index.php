@@ -2,7 +2,7 @@
 
 return [
 
-    'name' => 'uikit3-theme-one',
+    'name' => 'webart-theme-uikit3',
 
     /**
      * Menu positions
